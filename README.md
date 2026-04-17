@@ -1,7 +1,7 @@
 # Log Machine Pipeline
 
 ## Overview
-Data pipeline for processing machine log files into structured shipment-level datasets.
+Data pipeline and exploratory analysis for machine log data to enable shipment-level insights and anomaly detection in logistics processes.
 
 ## Features
 - Parse log files (CSV / TXT)
